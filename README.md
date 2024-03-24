@@ -1,1 +1,1 @@
-# githib-api
+# github-api
